@@ -1,7 +1,9 @@
 /* eslint-disable no-underscore-dangle */
 
-// fungsi yang dapat menguraikan (parsing) URL aktif menjadi
-// nilai yang kita butuhkan dalam menentukan route.
+/*
+  fungsi yang dapat menguraikan (parsing) URL aktif menjadi
+   nilai yang kita butuhkan dalam menentukan route.
+*/
 
 const UrlParser = {
   parseActiveUrlWithCombiner() {
